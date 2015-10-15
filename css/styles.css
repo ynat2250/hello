@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+ }
+
+h1 {
+    color: rebeccapurple;   
+}
+
+#intro1 {
+    <!-- display: block; -->
+    background: red;
+    font-color: red;
+}
